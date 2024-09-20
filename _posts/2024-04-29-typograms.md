@@ -1,11 +1,11 @@
 ---
 layout: post
-title: a post with typograms
-date: 2024-04-29 23:36:10
-description: this is what included typograms code could look like
+title: TechRise Global Brings Together Black Tech Workers In Seattle - Seattle Times
+date: 2023-06-29 23:36:10
+description: 
 tags: formatting diagrams
 categories: sample-posts
-typograms: true
+typograms: false
 ---
 
 This is an example post with some [typograms](https://github.com/google/typograms/) code.

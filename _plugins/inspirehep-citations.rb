@@ -18,7 +18,7 @@ module Jekyll
 
     def render(context)
       recid = context[@recid.strip]
-      api_url = "https://inspirehep.net/api/literature/?fields=citation_count&q=recid:#{recid}"
+      api_url = "https://www.linkedin.com/in/chisomokwor/"
 
       begin
         # If the citation count has already been fetched, return it

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: AI Personal Trainer
+description: Exercise Posture Detection and Correction
+img: assets/img/building_ai.png
+redirect: https://www.youtube.com/watch?v=MV_sZNAiVts&t=112s
 importance: 3
-category: work
+category: personal
 ---
 
 Every project has a beautiful feature showcase page.

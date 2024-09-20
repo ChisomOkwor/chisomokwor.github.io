@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: Android Dev
+description: Search for Restaurants on Yelp
+img: assets/img/restaurant_search2.png
+redirect: https://www.youtube.com/watch?v=afZQpiOXGY8&t=65s
+importance: 5
+category: personal
 ---
 
 Every project has a beautiful feature showcase page.
